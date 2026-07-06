@@ -1,4 +1,4 @@
-# CINEMAX 🎬
+NIXPRO CINÉ 
 
 A full-featured Netflix-style streaming discovery app built with React and the TMDb API.
 
